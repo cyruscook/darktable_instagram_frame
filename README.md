@@ -1,5 +1,5 @@
 # darktable_instagram_frame
-A script to frame images to an aspect ratio Instagram accepts
+A script to frame images to an aspect ratio Instagram accepts (https://help.instagram.com/1631821640426723).
 
 ## Usage
 
